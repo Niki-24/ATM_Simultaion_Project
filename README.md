@@ -1,4 +1,4 @@
-# ATM_Simultion_Project
+# ATM_Simulation_Project
 ATM Simulation Project
 This project is a simulation of an Automated Teller Machine (ATM) system, designed to mimic real-world banking transactions. Users can perform actions like:
 
